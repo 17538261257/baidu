@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">baidu</string>
+    <string name="txt_queding">完成</string>
+    <string name="title_activity_banner">BannerActivity</string>
+</resources>
